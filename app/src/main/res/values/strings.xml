@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Lab01c2017</string>
+    <string name="subtitulo">Calculadora Plazo Fijo</string>
+    <string name="intereses">Intereses a cobrar</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="cuit">CUIT</string>
+    <string name="importe">Importe</string>
+    <string name="dias">Cantidad de días</string>
+    <string name="botonPlazoFijo">HACER PLAZO FIJO</string>
+    <string name="renovar">Renovar automáticamente al vencimiento</string>
+    <string name="exito">Plazo fijo realizado. Recibirá %s al vencimiento!</string>
+    <string name="ingreseImporte">Debe ingresar un importe para poder realizar el cálculo</string>
+    <string name="ingreseMail">Debe ingresar un mail para poder realizar el cálculo</string>
+    <string name="ingreseCUIT">Debe ingresar un cuit para poder realizar el cálculo</string>
+
 </resources>
