@@ -104,7 +104,7 @@
             android:text="@string/intereses" />
 
         <TextView
-            android:id="@+id/textView11"
+            android:id="@+id/intereses"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
@@ -123,7 +123,7 @@
             android:text="@string/botonPlazoFijo" />
 
         <TextView
-            android:id="@+id/textView12"
+            android:id="@+id/mensaje_final"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="0.21"
