@@ -12,5 +12,10 @@
     <string name="ingreseImporte">Debe ingresar un importe para poder realizar el cálculo</string>
     <string name="ingreseMail">Debe ingresar un mail para poder realizar el cálculo</string>
     <string name="ingreseCUIT">Debe ingresar un cuit para poder realizar el cálculo</string>
+    <string name="hintMail">Su mail</string>
+    <string name="hintCUIT">Su CUIT</string>
+    <string name="hintImporte">Importe Deseado</string>
+
+
 
 </resources>
